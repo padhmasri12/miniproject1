@@ -49,7 +49,7 @@ public class todolist{
                 case 4:
                     System.out.println("\n tasks list:");
                     for (int i =0; i < count;i++){
-                    System.out.println((i+1)+"."+tasks[i]);
+                        System.out.println((i+1)+"."+tasks[i]);
                     }
                     break;
                 case 5:

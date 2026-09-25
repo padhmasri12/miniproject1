@@ -5,7 +5,7 @@ public class guessnumber {
 
         Scanner sc = new Scanner(System.in);
 
-        int secretNumber = 6;
+        int secretNumber = 7;
         int guess;
 
         System.out.println("=== Guess the Number Game ===");
